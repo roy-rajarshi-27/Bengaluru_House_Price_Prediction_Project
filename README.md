@@ -45,7 +45,7 @@ We will train and test several machine learning models to find the best one for 
 1. Linear Regression
 2. Ridge Regression
 3. Lasso Regression
-4. Random Forest
+4. Decision Tree
 
 We will evaluate each model using metrics such as mean absolute error, mean squared error, and R-squared.
 
